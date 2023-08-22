@@ -4,7 +4,9 @@
 Nesse perfil você encontrará projetos e portifólios de códigos desenvolvidos por mim!!
 
 
+<div>
 
+      
       <svg
         width="467"
         height="150"
@@ -206,3 +208,4 @@ Nesse perfil você encontrará projetos e portifólios de códigos desenvolvidos
         </g>
       </svg>
     
+</div>

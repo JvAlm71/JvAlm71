@@ -1,6 +1,10 @@
 ## Oi! Me chamo João Victo de Almeida
 **Estudante de Engenharia de Computação ICMC/EESC -USP**
 
+Email para contato: victoralmeida71@hotmail.com
+Meu linkedin:
+** www.linkedin.com/in/joão-victor-de-almeida-a643b5233 **
+
 Nesse perfil você encontrará projetos e portifólios de códigos desenvolvidos por mim!!
 
 

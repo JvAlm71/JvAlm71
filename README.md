@@ -1,4 +1,4 @@
-## Oi! Me chamo João Victo de Almeida
+## Oi! Me chamo João Victor de Almeida
 **Estudante de Engenharia de Computação ICMC/EESC -USP**
 
 Email para contato:

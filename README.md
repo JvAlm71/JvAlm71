@@ -17,7 +17,7 @@ Nesse perfil você encontrará projetos e portifólios de códigos desenvolvidos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvAlm71&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/JvAlm71/JvAlm71/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JvAlm71/blob/output/github-contribution-grid-snake.svg)
 
 
 

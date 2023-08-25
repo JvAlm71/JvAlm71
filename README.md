@@ -9,6 +9,14 @@ Meu linkedin:
 
 Nesse perfil você encontrará projetos e portifólios de códigos desenvolvidos por mim!!
 
+## 📊 Estatísticas do meu GitHub:
+
+![Estatísticas do GitHub de JvAlm71](https://github-readme-stats.vercel.app/api?username=JvAlm71&show_icons=true&theme=dark)
+
+## 📌 Linguagens mais usadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvAlm71&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   

@@ -6,7 +6,7 @@ Contact Email:
 **victoralmeida71@hotmail.com**
 
 My LinkedIn:
-**www.linkedin.com/in/joão-victor-de-almeida-a643b5233**
+**www.linkedin.com/in/joao-victor-de-almeida-a643b5233**
 
 In this profile, you will find projects and code portfolios developed by me!!
 

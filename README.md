@@ -10,14 +10,12 @@ My LinkedIn:
 
 In this profile, you will find projects and code portfolios developed by me!!
 
+### 💻 Languages & Core
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react)](https://skillicons.dev)
 
-<div style="display: inline_block"><br>
 
+### 💾 Databases & Backend
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-          
-          
-          
-</div>
-
+### 🔧 Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,aws)](https://skillicons.dev)
